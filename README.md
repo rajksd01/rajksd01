@@ -47,4 +47,4 @@ BLOG-POST-LIST:START -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajksd01&show_icons=true&locale=en" alt="rajksd01" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajksd01&" alt="rajksd01" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=rajksd01&theme=dark)](https://git.io/streak-stats)
