@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [rajkasaudhan.com.np](rajkasaudhan.com.np)
 
-- 💬 Ask me about **Javascript, React JS, Wordpress, Html 5, CSS 3, Tailwind CSS, Node JS**
+- 💬 Ask me about **Javascript, React JS, Wordpress, Html 5, CSS 3, Tailwind CSS, Node JS, Bootstrap**
 
 - 📫 How to reach me **develop@rajkasaudhan.com.np**
 
