@@ -1,4 +1,4 @@
-d<h1 align="center">Hi 👋, I'm Raj Kasaudhan.</h1>
+<h1 align="center">Hi 👋, I'm Raj Kasaudhan.</h1>
 <h3 align="center">A Passionate Web Developer From Nepal.</h3>
 <img align="right" alt ="coder" width="300" src="https://github.com/rajksd01/rajksd01/blob/main/coder.gif">
 
