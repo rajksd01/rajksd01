@@ -47,6 +47,6 @@ BLOG-POST-LIST:START -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajksd01&theme=dark&show_icons=true&locale=en" alt="rajksd01" /></p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=rajksd01&theme=dark)] -->
+[![GitHub Streak](https://streak-stats.demolab.com/?user=rajksd01&theme=dark)]
 <br/>
-<a href="https://app.daily.dev/raj_ksd"><img src="https://api.daily.dev/devcards/7c18e51e0b4c462793804b36c969196a.png?r=4a6"    width="250" alt="Raj Kasaudhan's Dev Card"/></a>
+<a href="https://app.daily.dev/raj_ksd"><img src="https://api.daily.dev/devcards/7c18e51e0b4c462793804b36c969196a.png?r=4a6"    width="250" alt="Raj Kasaudhan's Dev Card"/></a> -->
