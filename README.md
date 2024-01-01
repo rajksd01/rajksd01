@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajksd01&label=Profile%20views&color=0e75b6&style=flat" alt="rajksd01" /> </p>
 
-- 🌱 I’m currently learning **React JS .**
+- 🌱 I’m currently learning **Angular .**
 
 - 👯 I’m looking to collaborate on **MERN Stack Projects**
 
 - 👨‍💻 All of my projects are available at [rajkasaudhan.com.np](rajkasaudhan.com.np)
 
-- 💬 Ask me about **Javascript, React JS, Wordpress, Html 5, CSS 3, Tailwind CSS, Node JS, Bootstrap**
+- 💬 Ask me about **Javascript, React JS, Angular, Wordpress, Html 5, CSS 3, Tailwind CSS, Node JS, Bootstrap**
 
 - 📫 How to reach me **develop@rajkasaudhan.com.np**
 
