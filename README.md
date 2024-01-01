@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Angular .**
 
-- 👯 I’m looking to collaborate on **MERN Stack Projects**
+- 👯 I’m looking to collaborate on **MERN Stack and Angular Projects**
 
 - 👨‍💻 All of my projects are available at [rajkasaudhan.com.np](rajkasaudhan.com.np)
 
