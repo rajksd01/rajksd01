@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajksd01&label=Profile%20views&color=0e75b6&style=flat" alt="rajksd01" /> </p>
 
-- 🌱 I’m currently learning **Angular .**
+- 🌱 I’m currently learning **Backend Development .**
 
-- 👯 I’m looking to collaborate on **MERN Stack and Angular Projects**
+- 👯 I’m looking to collaborate on **MERN Stack Projects**
 
 - 👨‍💻 All of my projects are available at [rajkasaudhan.com.np](rajkasaudhan.com.np)
 
