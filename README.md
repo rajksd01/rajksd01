@@ -1,7 +1,7 @@
 <p align="center"> <img src="https://github.com/rajksd01/rajksd01/blob/main/rajCover.png" alt="rajksd01" /> </p>
 
 <h1 align="center">Hi 👋, I'm Raj Kasaudhan.</h1>
-<h3 align="center">A Passionate Web Developer From Nepal.</h3>
+<h3 align="center">A Passionate Software Developer.</h3>
 <img align="right" alt ="coder" width="300" src="https://github.com/rajksd01/rajksd01/blob/main/coder.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajksd01&label=Profile%20views&color=0e75b6&style=flat" alt="rajksd01" /> </p>
