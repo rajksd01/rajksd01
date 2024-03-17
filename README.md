@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajksd01&label=Profile%20views&color=0e75b6&style=flat" alt="rajksd01" /> </p>
 
-- 🌱 I’m currently learning **Backend Development .**
+- 🌱 I’m currently learning **Flutter .**
 
 - 👯 I’m looking to collaborate on **MERN Stack Projects**
 
