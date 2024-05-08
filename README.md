@@ -10,13 +10,13 @@
 
 - 👯 I’m looking to collaborate on **MERN Stack Projects**
 
-- 👨‍💻 All of my projects are available at [rajkasaudhan.com.np](rajkasaudhan.com.np)
+- 👨‍💻 All of my projects are available at: <a href="https:rajkasaudhan.com.np"> https://www.rajkasaudhan.com.np </a>
 
 - 💬 Ask me about **Javascript, React JS, Angular, Wordpress, Html 5, CSS 3, Tailwind CSS, Node JS, Bootstrap**
 
 - 📫 How to reach me **develop@rajkasaudhan.com.np**
 
-- 📄 Know about my experiences [rajkasaudhan.com.np](rajkasaudhan.com.np)
+- 📄 Know about my experiences: <a href="https:rajkasaudhan.com.np"> https://www.rajkasaudhan.com.np </a>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajksd01&" alt="rajksd01" /></a> </p>
 
