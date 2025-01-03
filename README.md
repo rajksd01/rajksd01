@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://github.com/rajksd01/rajksd01/blob/main/rajCover.png" alt="rajksd01" /> </p>
+<p align="center"> <img src="https://github.com/rajksd01/rajksd01/blob/main/raj-cover-post.png" alt="rajksd01" /> </p>
 
 <h1 align="center">Hi 👋, I'm Raj Kasaudhan.</h1>
 <h3 align="center">A Passionate Software Developer.</h3>
