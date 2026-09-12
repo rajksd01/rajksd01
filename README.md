@@ -10,28 +10,17 @@
 
 <p align="center">
   I build mobile apps, web apps, Rust services, multi-tenant backends, and on-device AI.
-  Not a specialist you have to staff around. The whole product, from the first sketch to
-  the thing someone opens every morning.
+  The whole product, not one slice of it.
 </p>
 
 <p align="center">
-  <strong>Engineer is the training. Builder is the habit.</strong> I do not wait for a
-  ticket to exist. I find something a real person struggles with, build the smallest version
-  that helps, put it in their hands, and keep going until it survives contact with them.
-  Every product below started that way.
+  <strong>Engineer is the training. Builder is the habit.</strong><br />
+  <strong>Obsessed with shipping.</strong> Ideas are cheap. A link you can open is not.
 </p>
 
 <p align="center">
-  <strong>I am obsessed with shipping.</strong> Not with planning to ship, or the diagram of
-  the thing, or the meeting about the diagram. Code that reached a real person this week is
-  the only version of progress I trust. Some of what I build dies quietly. The rest is below.
-</p>
-
-<p align="center">
-  Nine products so far: family health records, a private journal, wholesale commerce,
-  restaurant operations, an education CRM, and AI storefronts for local shops. Several are
-  live right now and linked below. Most of my recent work sits in private repositories,
-  so what you see here is the part I am free to show.
+  Nine products so far. Several are live and linked below. Most of my recent work lives in
+  private repos, so this is the part I can show.
 </p>
 
 <p align="center">
