@@ -19,8 +19,7 @@
 </p>
 
 <p align="center">
-  Nine products so far. Several are live and linked below. Most of my recent work lives in
-  private repos, so this is the part I can show.
+  Nine products built. Several are live and linked below.
 </p>
 
 <p align="center">
@@ -146,6 +145,10 @@ Sellers publish price lists. Retailers browse, build wholesale quantities, order
 
 ## How I work
 
+<p align="center">
+  <img src="./assets/loop.svg" alt="The loop I run: idea, build, ship, listen, and again" width="100%" />
+</p>
+
 **Ship first, then harden.** Something real goes live in week one. Opinions about it are worth more than opinions about a document.
 
 **Tests where state and money live.** Not coverage theatre. Unsaid has 101 tests because two people can answer the same question at the same millisecond. Restro has 780 because a bill must never be wrong.
@@ -161,6 +164,20 @@ Sellers publish price lists. Retailers browse, build wholesale quantities, order
 | **Zero to one** | A real product in users' hands in weeks, not a slide about one. |
 | **An AI feature that actually works** | On-device or hosted, wired into your product, evaluated, not demoed once. |
 | **A stalled build rescued** | I read the codebase, find what is actually blocking, and ship the next release. |
+
+<details>
+<summary><b>&rsaquo;&nbsp;&nbsp;what week one actually looks like</b></summary>
+
+<br />
+
+| Day | What happens |
+| --- | --- |
+| **1** | I read your product and your code. No meetings. |
+| **2** | We agree on the one thing that should exist by Friday. |
+| **3 – 4** | I build it. You get a link every evening, not a status update. |
+| **5** | It is live. We pick week two. |
+
+</details>
 
 Based in Bangalore, working with teams anywhere. Open to ambitious products, strong teams, and founder conversations.
 
@@ -183,8 +200,6 @@ Based in Bangalore, working with teams anywhere. Open to ambitious products, str
   <a href="https://github.com/rajksd01?tab=overview"><img src="./assets/contribution-graph.svg" alt="Raj Kasaudhan GitHub contribution graph including anonymous private work" width="100%" /></a>
 </p>
 
-Most of my current engineering happens in private repositories. GitHub counts that work anonymously here and in the native calendar, without exposing code or repository names.
-
 <p align="center">
   <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=iamrajkasaudhan@gmail.com"><strong>iamrajkasaudhan@gmail.com</strong></a>
   &nbsp;·&nbsp;
@@ -192,3 +207,14 @@ Most of my current engineering happens in private repositories. GitHub counts th
   &nbsp;·&nbsp;
   <a href="https://www.rajkasaudhan.com.np">Portfolio</a>
 </p>
+
+<details>
+<summary><b>&rsaquo;&nbsp;&nbsp;you scrolled all the way down</b></summary>
+
+<br />
+
+So did I, on every product up there, at 2am, wondering why the build went red.
+
+If you are building something and need a second pair of hands that actually ships, the email is a few lines up.
+
+</details>
