@@ -1,14 +1,13 @@
 <p align="center">
-  <img src="./assets/profile-banner-v3.png" alt="Raj Kasaudhan — Builder and Product Engineer across web, backend, distributed systems, AI, and mobile" width="100%" />
+  <img src="./assets/profile-banner-v3.png" alt="Raj Kasaudhan — product engineer across web, mobile, backend, distributed systems, and on-device AI" width="100%" />
 </p>
 
-<h1 align="center">I turn ideas into products.</h1>
+<h1 align="center">I take products from idea to production. Alone. Fast.</h1>
 
 <p align="center">
-  I design and build <strong>web apps, mobile products, backend platforms, distributed systems, and AI features</strong>—from first sketch to production.
+  Mobile apps, web apps, Rust services, multi-tenant backends, on-device AI.<br />
+  Not a specialist you have to staff around. The whole product.
 </p>
-
-<p align="center"><strong>Product-minded. Systems-capable. Fast from zero to useful.</strong></p>
 
 <p align="center">
   <a href="https://www.rajkasaudhan.com.np"><strong>Portfolio</strong></a>
@@ -19,6 +18,25 @@
   &nbsp;·&nbsp;
   <a href="https://github.com/rajksd01?tab=repositories"><strong>All repositories</strong></a>
 </p>
+
+<p align="center">
+  <img src="./assets/proof-band.svg" alt="Nine products shipped, 137 thousand lines in production, 881 tests, eight products shipped in the last 30 days" width="100%" />
+</p>
+
+## The last 30 days
+
+Eight codebases took shipping commits between 6 August and 7 September 2026. Not prototypes in a folder — live URLs, app builds, and running APIs.
+
+| Shipped | What went out |
+| --- | --- |
+| **Sep 7** | Restro service layer, SehatKit record pipeline, Setu tenant isolation |
+| **Sep 4** | Biofe voice-to-insight release |
+| **Sep 3** | Butwal city platform front end |
+| **Sep 2** | Samajh Android screen translation |
+| **Aug 26** | Unsaid backend, 101 Rust tests green |
+| **Aug 25** | Byapar wholesale ordering, Sathi AI storefront |
+
+That pace is the point. Most founders do not need one more architecture opinion. They need the thing to exist by Friday.
 
 ## Proof of work
 
@@ -31,24 +49,11 @@
   </tr>
 </table>
 
-Writing and voice notes become mood patterns, goals, reminders, and useful reflection. I built the mobile app, responsive web experience, deployed API, offline transcription, and private on-device extraction.
+Writing and voice notes become mood patterns, goals, reminders, and reflection worth reading back.
 
-`Flutter` `Riverpod` `Next.js` `Firebase` `Cloudflare` `MongoDB` `Whisper` `Qwen` · **[Open live product ↗](https://biofe-v2.vercel.app)**
+**The hard part:** transcription and meaning extraction run on the user's device, so a private journal never leaves it. Mobile app, responsive web, and deployed API are all mine.
 
-<br />
-
-### SehatKit · private family health records that stay useful
-
-<table>
-  <tr>
-    <td width="50%"><img src="./assets/sehatkit-dashboard.png" alt="SehatKit family dashboard with fictional sample records" width="100%" /></td>
-    <td width="50%"><img src="./assets/sehatkit-trends.png" alt="SehatKit health trend using fictional sample records" width="100%" /></td>
-  </tr>
-</table>
-
-Prescriptions, reports, medicines, reminders, meals, family timelines, and lab trends live in one mobile app. OCR, clinical entity extraction, and identity redaction run on the phone; every record shown above is fictional demo data.
-
-`React Native` `Expo` `TypeScript` `ONNX Runtime` `ML Kit` `Firebase` `on-device NLP`
+`Flutter` `Riverpod` `Next.js` `Firebase` `Cloudflare` `MongoDB` `Whisper` `Qwen` · 46K lines · **[Open live product ↗](https://biofe-v2.vercel.app)**
 
 <br />
 
@@ -61,9 +66,28 @@ Prescriptions, reports, medicines, reminders, meals, family timelines, and lab t
   </tr>
 </table>
 
-Friends answer from one link without accounts; enough responses unlock a shareable AI verdict. The Rust service handles private device identity, atomic duplicate protection, guarded game states, Redis, Postgres, and real concurrency tests.
+Friends answer from one link with no accounts. Enough answers unlock a shareable AI verdict.
+
+**The hard part:** anonymity and one-vote-per-person are opposite requirements. The Rust service solves it with private device identity, atomic duplicate protection, and guarded game states, covered by 101 concurrency tests.
 
 `Rust` `Axum` `React 19` `TypeScript` `PostgreSQL` `Redis` `Gemini` · **101 tests** · **[Play Unsaid ↗](https://unsaid-sable.vercel.app)**
+
+<br />
+
+### SehatKit · private family health records that stay useful
+
+<table>
+  <tr>
+    <td width="50%"><img src="./assets/sehatkit-dashboard.png" alt="SehatKit family dashboard with fictional sample records" width="100%" /></td>
+    <td width="50%"><img src="./assets/sehatkit-trends.png" alt="SehatKit health trend using fictional sample records" width="100%" /></td>
+  </tr>
+</table>
+
+Prescriptions, reports, medicines, reminders, meals, family timelines, and lab trends in one app.
+
+**The hard part:** health data cannot be shipped to a cloud model for parsing. OCR, clinical entity extraction, and identity redaction all run on the phone. Every record pictured is fictional demo data.
+
+`React Native` `Expo` `TypeScript` `ONNX Runtime` `ML Kit` `Firebase` `on-device NLP`
 
 <br />
 
@@ -76,7 +100,9 @@ Friends answer from one link without accounts; enough responses unlock a shareab
   </tr>
 </table>
 
-Sathi creates a storefront, sells in Nepali conversation, recommends products, builds baskets, accepts COD orders, and gives the shopkeeper an operational view of every sale.
+Sathi builds the storefront, sells in Nepali conversation, recommends products, fills the basket, takes cash-on-delivery orders, and hands the shopkeeper an operations view.
+
+**The hard part:** the shopkeeper never writes a product description or a reply. The model does the selling and the merchant only sees orders.
 
 `Gemini` `Node.js` `Express` `SQLite` `multilingual commerce` `embeddable widget` · **[Explore the product ↗](https://github.com/rajksd01/dukaan)**
 
@@ -91,16 +117,18 @@ Sathi creates a storefront, sells in Nepali conversation, recommends products, b
   </tr>
 </table>
 
-Sellers publish price lists; retailers browse, build wholesale quantities, order, negotiate in chat, and receive status updates. The screenshots follow the real no-install web ordering flow with fictional demo data.
+Sellers publish price lists. Retailers browse, build wholesale quantities, order, negotiate in chat, and get status updates.
+
+**The hard part:** retailers will not install an app to place one order, so the whole buying flow works from a link while the seller keeps a native app.
 
 `React Native` `Expo` `Node.js` `MongoDB` `FCM` `Cloudflare` · **[Read the architecture ↗](https://github.com/rajksd01/byapar)**
 
 ## More systems I have shipped
 
-- **Setu / Admitly** — multi-tenant education CRM with leads, follow-ups, RBAC, tenant isolation, Rust/Axum, and Postgres.
-- **Restro** — QR ordering, kitchen, billing, staff, inventory, purchasing, recipes, shifts, and customer credit.
+- **Restro** — restaurant operating system: QR ordering, kitchen, billing, staff, inventory, purchasing, recipes, shifts, customer credit. 39K lines, 780 test cases.
+- **Setu / Admitly** — multi-tenant education CRM with leads, follow-ups, RBAC, and hard tenant isolation on Rust, Axum, and Postgres.
 - **Samajh** — one-tap Hindi screen translation on Android using accessibility nodes, on-device translation, and overlays.
-- **[wirestat](https://github.com/rajksd01/wirestat)** — readable HTTP timing for every interactive `curl` call without contaminating command output.
+- **[wirestat](https://github.com/rajksd01/wirestat)** — readable HTTP timing on every interactive `curl` call without contaminating command output.
 
 <details>
   <summary><strong>Earlier products, experiments, and backend builds</strong></summary>
@@ -117,6 +145,30 @@ Sellers publish price lists; retailers browse, build wholesale quantities, order
 
 </details>
 
+## How I work
+
+**Ship first, then harden.** Something real goes live in week one. Opinions about it are worth more than opinions about a document.
+
+**Tests where state and money live.** Not coverage theatre. Unsaid has 101 tests because two people can answer the same question at the same millisecond. Restro has 780 because a bill must never be wrong.
+
+**Privacy as an engineering constraint.** Health records, journals, and identity documents get parsed on the user's device. It costs more effort and it removes an entire class of risk from your company.
+
+**I own the seam.** Most delays happen between the app, the API, and the model. When one person holds all three, that seam stops being a meeting.
+
+## Work with me
+
+| You need | What you get |
+| --- | --- |
+| **Zero to one** | A real product in users' hands in weeks, not a slide about one. |
+| **An AI feature that actually works** | On-device or hosted, wired into your product, evaluated, not demoed once. |
+| **A stalled build rescued** | I read the codebase, find what is actually blocking, and ship the next release. |
+
+Bangalore. Open to ambitious products, strong teams, and founder conversations.
+
+<p align="center">
+  <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=iamrajkasaudhan@gmail.com"><strong>Start a conversation ↗</strong></a>
+</p>
+
 ## What I build with
 
 **Languages** · TypeScript, JavaScript, Rust, Python, Dart, Java, C, C++, SQL, PHP, HTML, CSS<br />
@@ -132,10 +184,9 @@ Sellers publish price lists; retailers browse, build wholesale quantities, order
   <a href="https://github.com/rajksd01?tab=overview"><img src="./assets/contribution-graph.svg" alt="Raj Kasaudhan GitHub contribution graph including anonymous private work" width="100%" /></a>
 </p>
 
-Most of my current engineering happens in private repositories. GitHub counts that work anonymously here and in the native contribution calendar, without exposing code or repository names.
+Most of my current engineering happens in private repositories. GitHub counts that work anonymously here and in the native calendar, without exposing code or repository names.
 
 <p align="center">
-  <strong>Bangalore · open to ambitious products, strong teams, and founder conversations</strong><br /><br />
   <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=iamrajkasaudhan@gmail.com"><strong>iamrajkasaudhan@gmail.com</strong></a>
   &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/raj-kasaudhan">LinkedIn</a>

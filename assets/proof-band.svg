@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="134" viewBox="0 0 1000 134" role="img" aria-label="9 products shipped, 137 thousand lines of production code, 881 tests, 8 products with commits in the last 30 days">
+  <style>
+    .num  { font: 700 40px ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace; fill: #e6edf3; }
+    .lbl  { font: 400 13px ui-sans-serif, -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; fill: #8b949e; letter-spacing: .08em; }
+    .unit { font: 700 22px ui-monospace, SFMono-Regular, Menlo, monospace; fill: #58a6ff; }
+  </style>
+
+  <rect x="1" y="1" width="998" height="132" rx="14" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
+
+  <!-- column 1 -->
+  <text class="num"  x="56"  y="70">9</text>
+  <text class="lbl"  x="56"  y="98">PRODUCTS SHIPPED</text>
+
+  <!-- column 2 -->
+  <line x1="238" y1="30" x2="238" y2="104" stroke="#21262d" stroke-width="1.5"/>
+  <text class="num"  x="292" y="70">137<tspan class="unit">K</tspan></text>
+  <text class="lbl"  x="292" y="98">LINES IN PRODUCTION</text>
+
+  <!-- column 3 -->
+  <line x1="496" y1="30" x2="496" y2="104" stroke="#21262d" stroke-width="1.5"/>
+  <text class="num"  x="550" y="70">881</text>
+  <text class="lbl"  x="550" y="98">TESTS I CAN POINT AT</text>
+
+  <!-- column 4 -->
+  <line x1="762" y1="30" x2="762" y2="104" stroke="#21262d" stroke-width="1.5"/>
+  <text class="num"  x="816" y="70">8</text>
+  <text class="lbl"  x="816" y="98">SHIPPED IN 30 DAYS</text>
+</svg>
