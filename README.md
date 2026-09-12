@@ -136,10 +136,6 @@ Sellers publish price lists. Retailers browse, build wholesale quantities, order
   <img src="./assets/loop.svg" alt="The loop I run: idea, build, ship, listen, and again" width="100%" />
 </p>
 
-<p align="center">
-  <img src="./assets/principles.svg" alt="Four principles: ship first then harden, tests where state and money live, privacy as an engineering constraint, boring on purpose" width="100%" />
-</p>
-
 ## Work with me
 
 | You need | What you get |
