@@ -136,13 +136,9 @@ Sellers publish price lists. Retailers browse, build wholesale quantities, order
   <img src="./assets/loop.svg" alt="The loop I run: idea, build, ship, listen, and again" width="100%" />
 </p>
 
-**Ship first, then harden.** Something real goes live in week one. Opinions about it are worth more than opinions about a document.
-
-**Tests where state and money live.** Not coverage theatre. Unsaid has 101 tests because two people can answer the same question at the same millisecond. Restro has 780 because a bill must never be wrong.
-
-**Privacy as an engineering constraint.** Health records, journals, and identity documents get parsed on the user's device. It costs more effort and it removes an entire class of risk from your company.
-
-**I pick the boring option on purpose.** Clever architecture is what somebody decodes at 3am during an outage. I reach for the smallest thing that holds, and spend the saved time on the part users actually touch.
+<p align="center">
+  <img src="./assets/principles.svg" alt="Four principles: ship first then harden, tests where state and money live, privacy as an engineering constraint, boring on purpose" width="100%" />
+</p>
 
 ## Work with me
 
@@ -166,7 +162,7 @@ Sellers publish price lists. Retailers browse, build wholesale quantities, order
 
 </details>
 
-Based in Bangalore, working with teams anywhere. Open to ambitious products, strong teams, and founder conversations.
+Based in Bangalore, working with teams anywhere.
 
 <p align="center">
   <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=iamrajkasaudhan@gmail.com"><strong>Start a conversation ↗</strong></a>
@@ -174,12 +170,9 @@ Based in Bangalore, working with teams anywhere. Open to ambitious products, str
 
 ## What I build with
 
-**Languages** · TypeScript, JavaScript, Rust, Python, Dart, Java, C, C++, SQL, PHP, HTML, CSS<br />
-**Products** · React, Next.js, React Native, Expo, Flutter, Angular, Tailwind CSS, Bootstrap, WordPress<br />
-**Backend & data** · Node.js, Express, Axum, PostgreSQL, MongoDB, MySQL, Redis, Prisma, RabbitMQ<br />
-**AI** · Gemini, Qwen, Whisper, ONNX Runtime, ML Kit, OCR, RAG, NLP, computer vision<br />
-**Infrastructure** · Docker, AWS, Cloudflare, Firebase, GitHub Actions, Linux, Vercel, CI/CD<br />
-**Also used** · Postman, NumPy, Pandas, Power BI, Arduino, MATLAB, Git
+<p align="center">
+  <img src="./assets/stack.svg" alt="Stack by category: languages, product frameworks, backend and data, AI, and infrastructure" width="100%" />
+</p>
 
 ## GitHub activity
 
