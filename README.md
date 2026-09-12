@@ -1,25 +1,12 @@
 <p align="center">
-  <img src="./assets/hero.svg" alt="Raj Kasaudhan, software engineer and builder shipping mobile apps, web platforms, Rust services and on-device AI, based in Bangalore India" width="100%" />
+  <img src="./assets/hero-v2.svg" alt="Raj Kasaudhan, software engineer and builder shipping mobile apps, web platforms, Rust services and on-device AI, based in Bangalore India" width="100%" />
 </p>
 
 <h1 align="center">I take products from idea to production. Fast.</h1>
 
 <p align="center">
-  <strong>Raj Kasaudhan</strong> · Software engineer and builder · Bangalore, India
-</p>
-
-<p align="center">
-  I build mobile apps, web apps, Rust services, multi-tenant backends, and on-device AI.
-  The whole product, not one slice of it.
-</p>
-
-<p align="center">
   <strong>Engineer is the training. Builder is the habit.</strong><br />
-  <strong>Obsessed with shipping.</strong> Ideas are cheap. A link you can open is not.
-</p>
-
-<p align="center">
-  Nine products built. Several are live and linked below.
+  Obsessed with shipping. Ideas are cheap, a link you can open is not.
 </p>
 
 <p align="center">
