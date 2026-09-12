@@ -1,12 +1,30 @@
 <p align="center">
-  <img src="./assets/profile-banner-v3.png" alt="Raj Kasaudhan — product engineer across web, mobile, backend, distributed systems, and on-device AI" width="100%" />
+  <img src="./assets/hero.svg" alt="Raj Kasaudhan, software engineer building mobile apps, web platforms, Rust services and on-device AI, based in Bangalore India" width="100%" />
 </p>
 
-<h1 align="center">I take products from idea to production. Alone. Fast.</h1>
+<h1 align="center">I take products from idea to production. Fast.</h1>
 
 <p align="center">
-  Mobile apps, web apps, Rust services, multi-tenant backends, on-device AI.<br />
-  Not a specialist you have to staff around. The whole product.
+  <strong>Raj Kasaudhan</strong> · Software engineer · Bangalore, India
+</p>
+
+<p align="center">
+  I build mobile apps, web apps, Rust services, multi-tenant backends, and on-device AI.
+  Not a specialist you have to staff around. The whole product, from the first sketch to
+  the thing someone opens every morning.
+</p>
+
+<p align="center">
+  Most delay in a product team lives in the seam between the app, the API, and the model.
+  Three people, three calendars, one blocked release. I hold all three, so that seam stops
+  being a meeting and starts being a commit.
+</p>
+
+<p align="center">
+  Nine products so far: family health records, a private journal, wholesale commerce,
+  restaurant operations, an education CRM, and AI storefronts for local shops. Several are
+  live right now and linked below. Most of my recent work sits in private repositories,
+  so what you see here is the part I am free to show.
 </p>
 
 <p align="center">
@@ -22,21 +40,6 @@
 <p align="center">
   <img src="./assets/proof-band.svg" alt="Nine products shipped, 137 thousand lines in production, 881 tests, eight products shipped in the last 30 days" width="100%" />
 </p>
-
-## The last 30 days
-
-Eight codebases took shipping commits between 6 August and 7 September 2026. Not prototypes in a folder — live URLs, app builds, and running APIs.
-
-| Shipped | What went out |
-| --- | --- |
-| **Sep 7** | Restro service layer, SehatKit record pipeline, Setu tenant isolation |
-| **Sep 4** | Biofe voice-to-insight release |
-| **Sep 3** | Butwal city platform front end |
-| **Sep 2** | Samajh Android screen translation |
-| **Aug 26** | Unsaid backend, 101 Rust tests green |
-| **Aug 25** | Byapar wholesale ordering, Sathi AI storefront |
-
-That pace is the point. Most founders do not need one more architecture opinion. They need the thing to exist by Friday.
 
 ## Proof of work
 
@@ -95,8 +98,8 @@ Prescriptions, reports, medicines, reminders, meals, family timelines, and lab t
 
 <table>
   <tr>
-    <td width="50%"><a href="https://github.com/rajksd01/dukaan"><img src="./assets/dukaan-storefront-v2.png" alt="Sathi product-rich mobile storefront" width="100%" /></a></td>
-    <td width="50%"><a href="https://github.com/rajksd01/dukaan"><img src="./assets/dukaan-orders.png" alt="Sathi seller order operations" width="100%" /></a></td>
+    <td width="50%"><img src="./assets/dukaan-storefront-v2.png" alt="Sathi product-rich mobile storefront" width="100%" /></td>
+    <td width="50%"><img src="./assets/dukaan-orders.png" alt="Sathi seller order operations" width="100%" /></td>
   </tr>
 </table>
 
@@ -104,7 +107,7 @@ Sathi builds the storefront, sells in Nepali conversation, recommends products, 
 
 **The hard part:** the shopkeeper never writes a product description or a reply. The model does the selling and the merchant only sees orders.
 
-`Gemini` `Node.js` `Express` `SQLite` `multilingual commerce` `embeddable widget` · **[Explore the product ↗](https://github.com/rajksd01/dukaan)**
+`Gemini` `Node.js` `Express` `SQLite` `multilingual commerce` `embeddable widget`
 
 <br />
 
@@ -112,8 +115,8 @@ Sathi builds the storefront, sells in Nepali conversation, recommends products, 
 
 <table>
   <tr>
-    <td width="50%"><a href="https://github.com/rajksd01/byapar"><img src="./assets/byapar-catalog.png" alt="Byapar wholesale catalog with fictional products" width="100%" /></a></td>
-    <td width="50%"><a href="https://github.com/rajksd01/byapar"><img src="./assets/byapar-checkout.png" alt="Byapar live cart and checkout flow with fictional buyer details" width="100%" /></a></td>
+    <td width="50%"><img src="./assets/byapar-catalog.png" alt="Byapar wholesale catalog with fictional products" width="100%" /></td>
+    <td width="50%"><img src="./assets/byapar-checkout.png" alt="Byapar live cart and checkout flow with fictional buyer details" width="100%" /></td>
   </tr>
 </table>
 
@@ -121,7 +124,7 @@ Sellers publish price lists. Retailers browse, build wholesale quantities, order
 
 **The hard part:** retailers will not install an app to place one order, so the whole buying flow works from a link while the seller keeps a native app.
 
-`React Native` `Expo` `Node.js` `MongoDB` `FCM` `Cloudflare` · **[Read the architecture ↗](https://github.com/rajksd01/byapar)**
+`React Native` `Expo` `Node.js` `MongoDB` `FCM` `Cloudflare`
 
 ## More systems I have shipped
 
@@ -153,7 +156,7 @@ Sellers publish price lists. Retailers browse, build wholesale quantities, order
 
 **Privacy as an engineering constraint.** Health records, journals, and identity documents get parsed on the user's device. It costs more effort and it removes an entire class of risk from your company.
 
-**I own the seam.** Most delays happen between the app, the API, and the model. When one person holds all three, that seam stops being a meeting.
+**I pick the boring option on purpose.** Clever architecture is what somebody decodes at 3am during an outage. I reach for the smallest thing that holds, and spend the saved time on the part users actually touch.
 
 ## Work with me
 
@@ -163,7 +166,7 @@ Sellers publish price lists. Retailers browse, build wholesale quantities, order
 | **An AI feature that actually works** | On-device or hosted, wired into your product, evaluated, not demoed once. |
 | **A stalled build rescued** | I read the codebase, find what is actually blocking, and ship the next release. |
 
-Bangalore. Open to ambitious products, strong teams, and founder conversations.
+Based in Bangalore, working with teams anywhere. Open to ambitious products, strong teams, and founder conversations.
 
 <p align="center">
   <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=iamrajkasaudhan@gmail.com"><strong>Start a conversation ↗</strong></a>
