@@ -22,9 +22,9 @@
 </p>
 
 <p align="center">
-  Most delay in a product team lives in the seam between the app, the API, and the model.
-  Three people, three calendars, one blocked release. I hold all three, so that seam stops
-  being a meeting and starts being a commit.
+  <strong>I am obsessed with shipping.</strong> Not with planning to ship, or the diagram of
+  the thing, or the meeting about the diagram. Code that reached a real person this week is
+  the only version of progress I trust. Some of what I build dies quietly. The rest is below.
 </p>
 
 <p align="center">
