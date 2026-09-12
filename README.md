@@ -1,54 +1,87 @@
-<p align="center"> <img src="https://github.com/rajksd01/rajksd01/blob/main/raj-cover-post.png" alt="rajksd01" /> </p>
-
-<h1 align="center">Hi 👋, I'm Raj Kasaudhan.</h1>
-<h3 align="center">A Passionate Software Developer.</h3>
-<img align="right" alt ="coder" width="300" src="https://github.com/rajksd01/rajksd01/blob/main/coder.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajksd01&label=Profile%20views&color=0e75b6&style=flat" alt="rajksd01" /> </p>
-
-- 🌱 I’m currently learning **Flutter .**
-
-- 👯 I’m looking to collaborate on **MERN Stack Projects**
-
-- 👨‍💻 All of my projects are available at: <a href="https:rajkasaudhan.com.np"> https://www.rajkasaudhan.com.np </a>
-
-- 💬 Ask me about **Javascript, React JS, Angular, Wordpress, Html 5, CSS 3, Tailwind CSS, Node JS, Bootstrap**
-
-- 📫 How to reach me **develop@rajkasaudhan.com.np**
-
-- 📄 Know about my experiences: <a href="https:rajkasaudhan.com.np"> https://www.rajkasaudhan.com.np </a>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajksd01&" alt="rajksd01" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/raj_ksd" target="blank"><img src="https://img.shields.io/twitter/follow/raj_ksd?logo=twitter&style=for-the-badge" alt="raj_ksd" /></a> </p>
-
-
-
-<!--### Blogs posts 
-BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/rajksd01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="rajksd01" height="30" width="40" /></a>
-<a href="https://twitter.com/raj_ksd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="raj_ksd" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/raj-kasaudhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raj-kasaudhan" height="30" width="40" /></a>
-<a href="https://kaggle.com/rajkasaudhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rajkasaudhan" height="30" width="40" /></a>
-<a href="https://fb.com/jsislove" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jsislove" height="30" width="40" /></a>
-<a href="https://instagram.com/rajksd.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_sus__pense" height="30" width="40" /></a>
-<a href="https://hashnode.com/@rajksd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@rajksd" height="30" width="40" /></a>
-<a href="https://medium.com/@rajksd9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rajksd9" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rajksd01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rajksd01" height="30" width="40" /></a>
+<p align="center">
+  <img src="./assets/builder-banner.svg" alt="Raj Kasaudhan — builder across product, systems and AI" width="100%" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://www.rajkasaudhan.com.np"><img src="https://img.shields.io/badge/rajkasaudhan.com.np-11150f?style=flat-square&logo=safari&logoColor=white" alt="Website" /></a>
+  <a href="https://www.linkedin.com/in/raj-kasaudhan"><img src="https://img.shields.io/badge/LinkedIn-11150f?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:develop@rajkasaudhan.com.np"><img src="https://img.shields.io/badge/Email-11150f?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
+I build products end to end: the interface, the backend, the awkward device integration, and the path to production. My recent work sits where **mobile, private AI, and operational software** meet.
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajksd01&theme=dark&show_icons=true&locale=en&layout=compact" alt="rajksd01" /></p>
+I care about the seams that demos skip: models that actually run on-device, state transitions that survive races, tenant boundaries enforced by the backend, and deployments someone can operate after launch.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajksd01&theme=dark&show_icons=true&locale=en" alt="rajksd01" /></p>
+### What I am building now
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=rajksd01&theme=dark)]
-<br/>
-<a href="https://app.daily.dev/raj_ksd"><img src="https://api.daily.dev/devcards/7c18e51e0b4c462793804b36c969196a.png?r=4a6"    width="250" alt="Raj Kasaudhan's Dev Card"/></a> -->
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="./assets/biofe-home.png" alt="Biofe mobile journal home screen" width="100%" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>Biofe</h3>
+      <p>A quiet, private journal that turns writing and voice notes into useful structure: mood patterns, goals, reminders, and reflection.</p>
+      <p>I am building its web and mobile systems, including offline Whisper transcription, on-device reminder extraction with Qwen, native home-screen widgets, sharing, auth, and a Cloudflare-hosted API.</p>
+      <p><code>Flutter</code> <code>Riverpod</code> <code>Next.js</code> <code>Firebase</code> <code>Cloudflare</code> <code>MongoDB</code></p>
+      <sub>Private build · screenshot uses sample content</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>SehatKit</h3>
+      <p>A family medical-record app for prescriptions, reports, medicines, reminders, and lab trends.</p>
+      <p>The core promise is privacy: OCR, clinical entity extraction, and identity redaction are designed to run on the phone. Families can organise care and share a useful record without casually leaking personal details.</p>
+      <p><code>React Native</code> <code>Expo</code> <code>ONNX Runtime</code> <code>ML Kit</code> <code>Firebase</code></p>
+      <sub>Private build · screenshot contains no personal data</sub>
+    </td>
+    <td width="50%" valign="top">
+      <img src="./assets/sehatkit-signin.png" alt="SehatKit mobile sign-in screen" width="100%" />
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="./assets/unsaid-og.png" alt="Unsaid anonymous feedback game" width="100%" />
+</p>
+
+#### Unsaid
+
+An anonymous feedback game built around one shareable link and one final AI verdict. Friends answer without accounts; results unlock only after a threshold and freeze when the round ends. The backend uses HMAC-scoped device identity, atomic Redis duplicate protection, guarded state transitions, and real Postgres/Redis integration tests.
+
+`Rust` `Axum` `React 19` `TypeScript` `PostgreSQL` `Redis` `Gemini` · Private build
+
+### Selected public work
+
+| Project | What it does | Engineering focus |
+|---|---|---|
+| [wirestat](https://github.com/rajksd01/wirestat) | Adds one readable HTTP timing line to every interactive `curl` call | Shell portability, zero output contamination, protocol and connection timing |
+| [Sathi / dukaan](https://github.com/rajksd01/dukaan) | AI sales agent and storefront for Nepali shops: product discovery, baskets, COD orders, CRM, and insights | Gemini, multilingual commerce flows, Express, SQLite, embeddable widget |
+| [Byapar](https://github.com/rajksd01/byapar) | Wholesale ordering for sellers and retailers using catalog sharing, chat, negotiation, and push updates | Expo, React Native, Express, MongoDB, Firebase Cloud Messaging |
+
+### Systems I have taken from idea to working software
+
+- **Setu / Admitly:** multi-tenant education consultancy CRM with lead workflows, follow-ups, role-based access, tenant isolation, a Rust/Axum API, and Postgres.
+- **Restro:** QR table ordering plus restaurant operations across kitchen, billing, staff, inventory, purchasing, recipes, shifts, and customer credit.
+- **Samajh:** an Android-first, one-tap Hindi screen translation concept using accessibility nodes, on-device translation, and overlays, designed around parents who cannot navigate English-only apps.
+- **Production engineering:** TypeScript product surfaces, Python AI/vision services, deployment automation, CI/CD, observability, and the operational work around them.
+
+### How I build
+
+```text
+find the real user loop
+→ make the smallest useful product
+→ test the failure-prone boundaries
+→ ship it somewhere real
+→ watch what breaks
+→ improve the loop
+```
+
+My current toolbox includes TypeScript, React, React Native, Flutter, Rust, Python, Node.js, PostgreSQL, MongoDB, Redis, Firebase, Docker, Cloudflare, and practical on-device ML. The tool is secondary; I pick the stack that makes the product easier to finish and operate.
+
+Most of my current activity is in private repositories. GitHub includes those contributions anonymously in the contribution graph on this profile, without exposing private code or repository names.
+
+<p align="center">
+  <strong>Building from Bangalore, for people whose problems rarely fit inside a polished demo.</strong><br />
+  <a href="mailto:develop@rajkasaudhan.com.np">develop@rajkasaudhan.com.np</a>
+</p>
